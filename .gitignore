@@ -6,3 +6,4 @@ virtul/
 __pycache__/
 *.DS_Store
 mylog.log
+._*
