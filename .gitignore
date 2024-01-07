@@ -4,5 +4,5 @@
 .vscode/
 virtul/
 __pycache__/
-.DS.Store
+.DS_Store
 mylog.log
